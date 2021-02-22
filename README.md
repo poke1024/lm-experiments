@@ -1,2 +1,4 @@
 # lm-experiments
-Experiments on language modelling
+
+Some public experiments on language modelling using BERT and RoBERTa.
+
